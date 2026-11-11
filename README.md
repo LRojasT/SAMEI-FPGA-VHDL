@@ -27,7 +27,7 @@ El núcleo del sistema está gobernado por una **Máquina de Estados** finita qu
 ## 📂 Contenido del Repositorio
 * `/src`: Código fuente en VHDL.
 * `Memoria_SAMEI.pdf`: Documentación detallada con esquemas físicos, lógicos y el diseño de la máquina de estados.
-* 🎥 **[Ver Vídeo Demostrativo del Sistema SAMEI]([PEGA_AQUÍ_TU_ENLACE](https://youtu.be/vvB6sryHlNw?si=INlfsYc-3ewgLeg7))**
+* 🎥 **[Ver Vídeo Demostrativo del Sistema SAMEI](https://youtu.be/vvB6sryHlNw?si=INlfsYc-3ewgLeg7)**
 
 ---
 *Proyecto desarrollado en la Universidad Politécnica de Madrid (UPM) por Mario Reyes Morales,
